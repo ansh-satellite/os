@@ -5,3 +5,5 @@ So, basically above project is based on major 6 scheduling algorithms of operati
 4)SJF
 5)Preemptive Priority
 6)Non Preemptive priority
+
+It was created in Python by using Tkinter GUI
